@@ -1,0 +1,803 @@
+﻿LOCATION;PZN;TEXT;ATC;TEXT;ASK;TEXT
+A;A10BJ05;TRULICITY 075MG INJEKTIONSLÖSUNG IN EINEM FERTIGPEN;;;;
+A;A12CB;UNIZINK;;;;
+A;B05BA03;GLUCOSTERIL 10 GLAS 500ML;;;;
+A;B05BB01;ISOTONISCHE KOCHSALZLÖSUNG 09 GLAS 250ML;;;;
+A;C03CA04;TOREM 200 INFUSIONSLÖSUNG;;;;
+A;N05CD08;DORMICUM 75MG;;;;
+A;V06DB;NUTRISON ENERGY SMARTPACK 500ML;;;;
+A;L03AA14;LONQUEX 6MG INJEKTIONSLÖSUNG;;;;
+A;C01AA05;LANICOR;;;;
+A;B05XA03;KOCHSALZLÖSUNG 10 PLASTIK 10ML;;;;
+A;A02BA01;H2BLOCKERRATIOPHARM 200MG2ML INJEKTIONSLÖSUNG;;;;
+A;B01AC04;PLAVIX 75MG;;;;
+A;C01CA03;ARTERENOL 1MGML INJEKTIONSLÖSUNG 25ML;;;;
+A;B01AF01;XARELTO 10MG;;;;
+A;R03AC02;SALBUTAMOLRATIOPHARM FERTIGINHALAT;;;;
+A;S01AA11;GENTAMICINPOS 5MGG;;;;
+A;J01EE01;COTRIMRATIOPHARM AMPULLEN 400MG5ML80MG5ML;;;;
+A;B01AC09;EPOPROSTENOL  ROTEXMEDICA 05MG;;;;
+A;V03AB25;FLUMAZENIL KABI 01MGML 5ML;;;;
+A;B05BA10;AMINOMIX 1 NOVUM DOPPELKAMMERBEUTEL 1L;;;;
+A;C04AD03;PENTOXIFYLLIN1A PHARMA 600MG;;;;
+A;V06DB;NUTRINIDRINK MULTI FIBRE ERDBEERE;;;;
+A;L02BB03;BICALUTAMID WINTHROP 50MG;;;;
+A;L01XX52;VENCLYXTO 10MG;;;;
+A;G03DA04;UTROGEST 100MG;;;;
+A;C08CA05;NIFEDIPIN AL 10;;;;
+A;A03BB01;BUSCOPAN;;;;
+A;N06AA09;AMINEURIN 100MG;;;;
+A;B02BB01;HAEMOCOMPLETTAN P 20MGML 1G;;;;
+A;N05CC01;CHLORALDURAT 500MG;;;;
+A;A07DA03;IMODIUM LINGUAL;;;;
+A;M01AB05;VOLTAREN 100MG;;;;
+A;N02AA01;MORPHIN MERCK 2;;;;
+A;L04AD02;ENVARSUS 4MG;;;;
+A;V06DB;FRESUBIN ENERGY FIBRE EASYBAG 500ML;;;;
+A;A10BD07;JANUMET 50MG1000MG;;;;
+A;J01FA09;CLARITHROMYCIN EBERTH 500MG;;;;
+A;A09AA02;KREON 10000;;;;
+A;V07AB;GLUCOSTERIL 5 GLAS 100ML;;;;
+A;J01MA12;LEVOFLOXACIN KABI 5MGML 500MG KABIPAC;;;;
+A;J02AC04;NOXAFIL 300MG;;;;
+A;V07AB;AMPUWA GLASINJEKTIONSFLASCHE 100ML;;;;
+A;B05BB02;ELEKTROLYTINFUSIONSLÖSUNG 148 MIT GLUCOSE 1 PÄD 250ML;;;;
+A;C03CC01;REOMAX AMP 50MG IMPORT;;;;
+A;V03AF03;LEUCOVORIN 15MG;;;;
+A;N02AE01;TRANSTEC PRO 35 MIKROGRAMMH;;;;
+A;N07AA03;UBRETID 5MG;;;;
+A;G02CX01;TRACTOCILE 375MG5ML KONZENTRAT;;;;
+A;V03AF03;CALCIUMFOLINATGRY 15MG;;;;
+A;D07AC01;SODERM 122MGG;;;;
+A;B01AC11;VENTAVIS 10 MIKROGRAMMML LÖSUNG FÜR VERNEBLER 2ML;;;;
+A;L04AB02;REMICADE 100MG INFUSIONSLÖSUNGSKONZENTRAT;;;;
+A;J02AC01;FLUCONAZOL KABI 2MGML 200ML;;;;
+A;N05AL01;SULPIRID STADA 50MG;;;;
+A;B05AA01;HUMAN ALBUMIN 200GL BAXALTA 50ML;;;;
+A;J01GB01;TOBRAZID INFECTOPHARM 80MG2ML INJEKTIONSINFUSIONSLÖSUNG;;;;
+A;C08CA13;LERCANIDIPINOMNIAPHARM 20MG;;;;
+A;N01AH01;FENTANYL PANPHARMA 05MG INJEKTIONSLÖSUNG;;;;
+A;N01BB20;EMLA 25MGG  25MGG;;;;
+A;R03BA05;FLUTIDE MITE 50UG;;;;
+A;C07AB02;METOPROLOLTARTRATOMNIAPHARM 5MG5ML INJEKTIONSLÖSUNG;;;;
+A;D06AX07;REFOBACIN;;;;
+A;C05AD01;POSTERISAN AKUT 60MG;;;;
+A;S01BA02;HYDROCORTISONPOS N 25;;;;
+A;N02BB02;NOVAMINSULFONRATIOPHARM 1G2ML INJEKTIONSLÖSUNG;;;;
+A;V06DB;NUTRISON ADVANCED DIASON SMARTPACK 1000 ML;;;;
+A;A02BC02;PANTOPRAZOL WINTHROP 20MG;;;;
+A;C09AA09;FOSINORM 20MG;;;;
+A;A06AC01;MUCOFALK APFEL BEUTEL;;;;
+A;D06AX;LEUKASE N;;;;
+A;B03BB01;DREISAFOL 5MG;;;;
+A;P01BC01;LIMPTAR N 200MG;;;;
+A;C01CX08;LEVOSIMENDAN CARINOPHARM 125MG INFUSIONSLÖSUNGSKONZENTRAT;;;;
+A;A10BJ05;TRULICITY 15MG INJEKTIONSLÖSUNG IN EINEM FERTIGPEN;;;;
+A;J02AX04;CASPOFUNGIN INRESA 50MG INFUSIONSLÖSUNGSKONZENTRAT;;;;
+A;A07BA01;KOHLEPULVIS;;;;
+A;N02AA55;TARGIN 20MG10MG;;;;
+A;A12BA30;KALINOR;;;;
+A;D07AC01;SODERM 122MGG;;;;
+A;J01FA09;CLARITHROMYCIN1A PHARMA 125MG5ML;;;;
+A;B03XA02;ARANESP 10 MIKROGRAMM INJEKTIONSLÖSUNG;;;;
+A;J01XX07;NITROXOLIN FORTE;;;;
+A;B03BA01;B12 ANKERMANN 1000UG;;;;
+A;N03AA03;LISKANTIN;;;;
+A;C01DA02;NITROLINGUAL INFUS 1MGML 10ML;;;;
+A;S01CA01;DEXAGENTOPHTAL 5MGG UND 03MGG;;;;
+A;V03AX;PTABLETTEN WEI 8MM LICHTENSTEIN;;;;
+A;H04AA01;GLUCAGEN;;;;
+A;N03AX18;VIMPAT 100MG;;;;
+A;C09CA03;VALSACOR 160MG;;;;
+A;M02AB;FINALGON 4MGG  25MGG;;;;
+A;V03AB37;PRAXBIND 25G50ML;;;;
+A;B02BD06;HAEMATE P 250;;;;
+A;C09AA03;LISINOPRIL STADA 25MG;;;;
+A;M01AH05;ETORICOXIB PUREN 60MG;;;;
+A;N04BA03;STALEVO 150MG375MG200MG;;;;
+A;C07AA05;PROPRARATIOPHARM 10MG;;;;
+A;C07AA07;SOTALEX MITE 80MG;;;;
+A;H03CA;JODID 200UG HEXAL;;;;
+A;A07DA03;IMODIUM N;;;;
+A;J01CA08;PIVMELAM 400MG;;;;
+A;A02AH;BICANORM;;;;
+A;J01EE01;COTRIMOXAZOL AL;;;;
+A;B05BA10;NUTRIFLEX OMEGA SPECIAL NOVO 125L EMULSION;;;;
+A;C09AA02;ENALAPRILRATIOPHARM 20MG;;;;
+A;D02AE01;BASODEXAN 100MGG;;;;
+A;N05AD03;MELPERONNEURAXPHARM 25MG;;;;
+A;A06AH01;RELISTOR 12MG06ML INJEKTIONSLÖSUNG;;;;
+A;N06AA06;STANGYL 100MG TABS;;;;
+A;N05CF01;ZOPICLON1A PHARMA 75MG;;;;
+A;N02AB02;PETHIDINHAMELN 50MGML 2ML;;;;
+A;L04AA04;THYMOGLOBULINE 5MGML 25MG INFUSIONSLÖSUNGSKONZENTRAT;;;;
+A;V03AF03;CALCIUMFOLINAT KABI 10MGML INJEKTIONSLÖSUNG 1000MG;;;;
+A;A01AB03;CHLORHEXAMED PRAXIS 1;;;;
+A;N06AX21;CYMBALTA 30MG;;;;
+A;L04AX03;METEX 75MG 50MGML INJEKTIONSLÖSUNG;;;;
+A;R05CB01;ACC 200MG;;;;
+A;B01AF03;LIXIANA 60MG;;;;
+A;L04AD02;PROGRAF 5MGML;;;;
+A;N05AX08;RISPERIDONRATIOPHARM 25MG DEPOTINJEKTIONSSUSPENSION;;;;
+A;M02AA15;VOLTAREN EMULGEL 116;;;;
+A;R05X;TRANSPULMIN ERKÄLTUNGSBALSAM;;;;
+A;H02AB06;PREDNISOLON 1MG JENAPHARM;;;;
+A;M03BX01;LIORESAL 25;;;;
+A;S01BC10;NEVANAC 1MGML;;;;
+A;V03AF01;MESNACELL 100MGML 5000MG;;;;
+A;N01BB02;XYLOCAIN 2;;;;
+A;M01AE01;DOLORMIN FÜR KINDER IBUPROFENSAFT 40MGML;;;;
+A;B05XA02;NATRIUMHYDROGENCARBONAT 42 BBRAUN 250ML;;;;
+A;S01EC01;DIAMOX INJFL 500MG IMPORT;;;;
+A;R03CC03;BRICANYL 05MG;;;;
+A;R03AL01;BERODUAL RESPIMAT 2050 MIKROGRAMMDOSIS;;;;
+A;R03AL06;SPIOLTO RESPIMAT 25UG25UG PRO HUB WIEDERVERWENDBAR;;;;
+A;S01AE01;FLOXAL 3MGG;;;;
+A;B05XA07;CALCIUMCHLORID 55 BAXTER;;;;
+A;H02AB06;KLISMACORT 100MG;;;;
+A;A06AC01;MUCOFALK ORANGE BEUTEL;;;;
+A;S01EA04;CLONIDOPHTAL 18 SINE AUGENTROPFEN;;;;
+A;B01AB05;CLEXANE 4000 IE 40MG04ML INJEKTIONSLSG MSICHSYS;;;;
+A;B05BB01;STEROFUNDIN ISO ECOFLAC PLUS 1L;;;;
+A;A10BB12;AMARYL 3MG;;;;
+A;V06DB;NUTRISON SMARTPACK 500ML;;;;
+A;L01BB02;PURINETHOL;;;;
+A;N05AH03;ZYPADHERA 300MG DEPOTINJEKTIONSSUSPENSION;;;;
+A;B02BD01;BERIPLEX PN 1000;;;;
+A;J05AH02;TAMIFLU 30MG;;;;
+A;N06AB04;CIPRAMIL 20MG;;;;
+A;S01EA04;CLONIDOPHTAL 18 SINE AUGENTROPFEN;;;;
+A;L04AA33;ENTYVIO 300MG INFUSIONSLÖSUNGSKONZENTRAT;;;;
+A;A10BX02;NOVONORM 05MG;;;;
+A;S01EB01;PILOMANN 1;;;;
+A;B02BD01;COFACT 500 IE;;;;
+A;N02AX51;TILIDIN COMP STADA 150MG12MG;;;;
+A;A05AA02;URSOFALK 250MG5ML SUSPENSION;;;;
+A;G01AF02;VAGISAN MYKO KOMBI 3 TAGE;;;;
+A;C09CA07;TELMISARTAN ABZ 80MG;;;;
+A;J01DD01;CEFOTAXIM FRESENIUS 2G;;;;
+A;B01AX05;ARIXTRA 25MG05ML INJEKTIONSLÖSUNG;;;;
+A;J01CF05;FLUCLOXACILLIN KABI 2000MG;;;;
+A;A10BB01;GLIBENCLAMID ABZ 35MG;;;;
+A;J01FF01;CLINDASAAR 300MG;;;;
+A;B03AC;FERINJECT 50MG EISENML 20ML;;;;
+A;S01CA01;DEXAMYTREX;;;;
+A;N02AA03;HYDROMORPHON HEXAL 10MGML 10MG;;;;
+A;V07AB;RINGERINJEKTIONSLÖSUNG B BRAUN GLAS 100ML;;;;
+A;N05AX13;XEPLION 150MG DEPOTINJEKTIONSSUSPENSION;;;;
+A;N06DA03;EXELON 95MG24 STUNDEN;;;;
+A;H03AA01;LTHYROXIN HENNING 50;;;;
+A;J01DD04;CEFTRIAXON HEXAL 05G;;;;
+A;A10AE05;LEVEMIR FLEXPEN 100 EINHEITENML;;;;
+A;N03AX14;LEVETIRACETAM ZENTIVA 500MG;;;;
+A;L04AD02;ADVAGRAF 1MG;;;;
+A;L02BB03;BICALUTAMID1A PHARMA 50MG;;;;
+A;G04BD12;BETMIGA 50MG;;;;
+A;L04AX03;METEX 10MG;;;;
+A;J01MA02;CIPROBAY SAFT 10 MIT LÖSUNGSMITTEL;;;;
+A;N04BX02;COMTESS 200MG;;;;
+A;R03AK07;SYMBICORT TURBOHALER 16045 MIKROGRAMMDOSIS;;;;
+A;C08CA08;NITRENDIPIN ARISTO 10MG;;;;
+A;M01AH05;ETORICOXIB PUREN 60MG;;;;
+A;L01BB03;THIOGUANINASPEN 40MG;;;;
+A;B02BD01;BERIPLEX PN 500;;;;
+A;H02AB02;FORTECORTIN INJECT 4MG INJEKTIONSLÖSUNG;;;;
+A;A02BA03;FAMOTIDIN STADA 40MG;;;;
+A;N02BB02;NOVAMINSULFON LICHTENSTEIN 500MG;;;;
+A;N05AH03;OLANZAPIN1A PHARMA 5MG;;;;
+A;N03AG01;ORFIRIL 150;;;;
+A;C01DA02;NITROLINGUAL AKUT SPRAY;;;;
+A;A06AD65;MOVICOL FLÜSSIG ORANGE;;;;
+A;G01AX14;GYNOPHILUS SCHEIDENKAPSELN;;;;
+A;7283969;GLYCEROL 85 GLASFLASCHE 125ML 1X1;;;;
+A;J01DD02;CEFTAZIDIM DR EBERTH 1G;;;;
+A;N03AX14;LEVETIRACETAM DESITIN 750MG;;;;
+A;V06DB;NUTRINIMAX MULTIFIBRE SMARTPACK;;;;
+A;J06BA02;INTRATECT 100GL 100ML;;;;
+A;H03AA01;LTHYROXIN HENNING 125;;;;
+A;N05AL03;TIAPRID HEXAL 100MG;;;;
+A;C01AA04;DIGIMERCK MINOR 007MG;;;;
+A;A10BB01;GLIBENCLAMID STADA 35MG;;;;
+A;L01AX03;TEMOZOCELL 140MG;;;;
+A;L01AX03;TEMOZOCELL 140MG;;;;
+B;;Rocephin 2 g. i.v. x1;;;;
+B;;* Capillitium: Salicyl Kopfkappe;;;;
+B;;Enalapril 5 mg TBL;;;;
+B;;Dekristol (Colecalciferol) 20.000 I.E. TBL;;;;
+B;;40 KCl + 2 AMp Calcium +2 Amp Magnesium in die Infusion;;;;
+B;;Sortis (Atorvastatin Hemicalcium);;;;
+B;;Sevikar HCT  40/5/12,5 mg;;;;
+B;;Autologes peripheres Blutstammzellkonz. HAL, kryokonserviert;;;;
+B;;Metformin/Vildagliptin 50/1000 mg;;;;
+B;;Transtec pro Pflaster 35 æg/h (Buprenorphin) 20 mg PFL Di abend, Sa früh;;;;
+B;;Ernäh. Nutrison Energy Multifibre (SN) 1,5 kcal/ml;;;;
+B;;Pregabalin 200;;;;
+B;;Vocado HCT 40mg/5mg/25mg Tabletten;;;;
+B;;6IE Oxytocin in 500ml Jono-Steril;;;;
+B;;L-Thyroxin (Levothyroxin) IV;;;;
+B;;Valproat (Orfiril) 1000 mg;;;;
+B;;Zinkorotat 25 (Zink) 15 mg TBL;;;;
+B;;Midazolam (Prämed vor OP);;;;
+B;;Decoderm Tri Creme;;;;
+B;;Torem 25 mg TBL;;;;
+B;;*Lagerung auf Metalline Folie;;;;
+B;;Erythrozytenkonzentrat PAGGS-M, gefiltert, bestrahlt HAL (ZE);;;;
+B;;Irenat Tropfen (Natriumperchlorat) 300 mg/ ml MG, 3*20 Tropfen;;;;
+B;;NaCl 0,9% + 4gtt Salbutamol;;;;
+B;;Metoprolol 95;;;;
+B;;Dekristol (Colecalciferol) 1.000 I.E. ;;;;
+B;;FERINJECT 50 mg Eisen/ml (Eisencarboxymaltose) 100 mg/ 2 ml INJ. bitte als Kurzinfusion;;;;
+B;;Candesartan Zentiva comp 16mg/12,5 mg ;;;;
+B;;Ketanest S (Esketamin) 50 mg auf 50 ml zur Sedierung;;;;
+B;;Urbason solubile forte 500mg (Methylprednisolon) 250 mg IV;;;;
+B;;Myopiridin 3 mg TBL;;;;
+B;;Zodin Omega 3 1000mg;;;;
+B;;CandidoHermal Plus Softpaste;;;;
+B;;Otriven 0,05% (Xylometazolin HCl) 0,25 mg NTR;;;;
+B;;Everolimus 5 mg;;;;
+B;;*Mo-Po-CO GK außer Gesicht;;;;
+B;;*Mo-Po-Co Unterarme  + Hände bds. ;;;;
+B;;*Dermoxin Füße bds.;;;;
+B;;Apidra (spritzt Patn. selbstständig);;;;
+B;;L Thyrox 150;;;;
+B;;Tracleer 125 mg;;;;
+B;;Tamsulosin (Tamsulosin HCl) 0,4 mg ;;;;
+B;;Palladon akut 1.3 mg ;;;;
+B;;Ketanest S (Esketamin) 50 mg/ml 50 ml INJ;;;;
+B;;Gastrografin 100ml über MS;;;;
+B;;Kaliumchlorid 7,45% 30ml ad 30ml NaCl0,9%;;;;
+B;;Fenistil vor 15 min Beginn Rituximab;;;;
+B;;Nitrazepam 10 mg;;;;
+B;;Gentamicin Ampullen (Gentamicin) 240;;;;
+B;;Ramipril 10 mg ;;;;
+B;;Kochsalz 0,9 %;;;;
+B;;20 mVal KCL mit in die NaCl geben;;;;
+B;;Zyklopentolat AT 2xR;;;;
+B;;Tromcardin Complex ;;;;
+B;;Systemth Erbitux load;;;;
+B;;Smofkabiven zentral 2200 kcal 1970 ml ;;;;
+B;;Salbuhexal 100;;;;
+B;;Otriven (Xylometazolinhydrochlorid) 0,1 % Spray;;;;
+B;;Bimatoprost Augentr.;;;;
+B;;Systemtherapie Cis 40 laut Standard;;;;
+B;;Exforge HCT (Amlodipin+Valsartan) 5+160 mg+25mg FTA;;;;
+B;;Nasenöl;;;;
+B;;Lixiana 60mg (Edoxaban) 60 mg FTA.;;;;
+B;;Bipreterax 5/1,25;;;;
+B;;Lercanidipin  10mg;;;;
+B;;Metoprololsuccinat plus 95/12,5;;;;
+B;;Timophthal 0.5% AT R/L;;;;
+B;;Flutiform 125/5 Inh;;;;
+B;;Magnesium Diasporal 150;;;;
+B;;Rosuzet 10 /10;;;;
+B;;Floxal AS z.N. L;;;;
+B;;Arlevert (Cinnarizin+Dimenhydrinat) 20+40 mg;;;;
+B;;Valoron N Retard 100/8mg;;;;
+B;;Innohep 20000 Anti-Xa I.E./ mL (Durchstechflasche);;;;
+B;;Fluclox (Flucloxacillin) 1,5 g in NaCl 0,9% 100 ml INF;;;;
+B;;*PoLa auf entzündetes Areal rechter US;;;;
+B;;Bimaprost- Lumigan 0.1mg/ml;;;;
+B;;Thyrogen 0,9mg (Amp);;;;
+B;;Atenolol comp 100mg/25mg ;;;;
+B;;Levodopa/Benserazid 100+25 mg TBL;;;;
+B;;Metoprolol 100 mg     1-0-1-0;;;;
+B;;Medazepam 10mg;;;;
+B;;Tavor (Lorazepam) 1 mg TBL bei Bedarf zur Nacht ;;;;
+B;;Colchizin 0,5 mg;;;;
+B;;Insulin Lantus Solostar;;;;
+B;;Nabic 70 ml+70 ml Aqua über 1 Std.;;;;
+B;;Atenolol 50mg;;;;
+B;;Clexane (Enoxaparin-Natrium) 90 mg FSP;;;;
+B;;Euthyrox;;;;
+B;;Singulair 10mg;;;;
+B;;Palladon 1,3 akut;;;;
+B;;Vitamin B;;;;
+B;;Lorazepam 2,5mg ;;;;
+B;;Eferox 50µg;;;;
+B;;Novo Rapid (Ins. aspart) 100 IE/ml;;;;
+B;;Hydrierung lt CatoPan;;;;
+B;;Colchicin  (Colchicin) 0,5 mg FTA;;;;
+B;;Exforge 10/360mg ;;;;
+B;;*Permethrin am gesamten Körper (außer Kopf) zur Nacht;;;;
+B;;octenisan Waschlotion;;;;
+B;;Pamidronat (Pamidronsäure) als KI über 2h ;;;;
+B;;*Dermoxin Hände/Fingerkuppen;;;;
+B;;Liothyronin 20 µg;;;;
+B;;Fludrocortison 10 µg/ml;;;;
+B;;Artane 2mg;;;;
+B;;L-Thyrox 225µg (Levothyroxin natrium);;;;
+B;;Ramipril 0,5;;;;
+B;;Jonosteril 1000ml + Kalium 40 mmol über die Nacht;;;;
+B;;Duoresp;;;;
+B;;Natriumchlorid-Lösung 0,9%;;;;
+B;;Bisoprolol-ratiopharm 5 mg ;;;;
+B;;Omega 3 1000 mg;;;;
+B;;Delix plus (Ramipril+Hydrochlorothiazid) 5+25 mg TBL;;;;
+B;;Desristol 20000;;;;
+B;;*1-2-3-Creme ;;;;
+B;;Certican (Everolimus) TBL (ZE);;;;
+B;;*Po-La auf Zosterareal;;;;
+B;;(Beloc) Metoprolol  5mg ;;;;
+B;;Yomogi 250 mg 5 Bilionen Zellen HKP;;;;
+B;;Selenase 300mg TBL;;;;
+B;;*Polyhexanid- Spray + Cutimed sorbact Gelgaze + Überverband;;;;
+B;;Argininhydrochlorid 20g über 30min;;;;
+B;;topisch: Polihexanid in Lanette 2x tgl. linke Gesichts/Kopfhälfte;;;;
+B;;Dronabinol-Tropfen ölig (Dronabinol) 2,5% TRO --- bitte zur Einnahme auf Zwieback tropfen!;;;;
+B;;Formolich 12µg Inhalation;;;;
+B;;Amoxi-Clavulan Saft (Amoxicillin+Clavulansäure 25+6,25 mg/ml ML);;;;
+B;;Ambisome (Amphotericin B, liposomal);;;;
+B;;Marcumar (Phenprocoumon) 3 mg TBL, bitte pausieren, Einnahme nach Quick;;;;
+B;;Thyronajod 50 µg TBL;;;;
+B;;Sitaglipin 25 mg;;;;
+B;;Ozym (Triacylglycerollipase) 40000 I.E. KPS;;;;
+B;;Remdesivir 100mg in 250ml NaCl 0,9%;;;;
+B;;Concor 2,5 mg;;;;
+B;;L-Thyroxin /Iodid 50 µg/150µg TBL;;;;
+B;;Cholecalciferol 20000 I.E.;;;;
+B;;Cutimed sorbact Gel Gaze ;;;;
+B;;Tranexams¿ure (Tranexams¿ure) 500 mg/5 ml INJ;;;;
+B;;Bifiteral Einlauf ;;;;
+B;;Tamoxifen;;;;
+B;;Adsactone Drag. 50 mg ;;;;
+B;;A-Z komplex ;;;;
+B;;Tioblis 10/80;;;;
+B;;2 ml NaCl 0,9%;;;;
+B;;Humalog Insulin: ;;;;
+B;;Duoresp Spiropmax 160 UH/4,5IHP;;;;
+B;;Polihexanid 0,12% (Polihexanid) 40g Creme f. Beine;;;;
+B;;Metamizol;;;;
+B;;Morphin 1mg s.c.;;;;
+B;;ISMN 40 mg;;;;
+B;;Erythrozytenkonzentrat PAGGS-M, 2766612100219918 HAL (ZE);;;;
+B;;RELVAR-ELIPTA  184/22;;;;
+B;;Heparin-Natrium (Heparin-Natrium vom Schwein) 5.000 I.E. INJ NACH RÖ-TH;;;;
+B;;Valsartan (Valsartan) 80 mg FTA (Stück);;;;
+B;;Kalium-Bypass 10 ml KCl 7.46% ad 10 ml Aqua über 4h;;;;
+B;;Paspertin (Metoclopramid) 10 mg tbl;;;;
+B;;Quilonum ret 450;;;;
+B;;*Urea-5%-Creme Hände und Füße;;;;
+B;;Fortecortin (Dexamethason) TBL;;;;
+B;;Moventig;;;;
+B;;Klacid 500mg ;;;;
+B;;taflotan sine (Tafluprost) 15µg/ml AT;;;;
+B;;Beloc-Zok mite Retardtabletten (Metoprololsuccinat) 47,5 mg TBL (Stück);;;;
+B;;parenterales Fett über 12h (20-8 Uhr);;;;
+B;;Dormicum (Midazolam) 7,5 mg ;;;;
+B;;Levodopa/Benserazid 100mg/25mg Tabletten;;;;
+B;;Insulin glulisin(Apidra 100E/ml) Solostar FP;;;;
+B;;Velmetia 50 mg ;;;;
+B;;Bisoprolol 5 mg ;;;;
+B;;Jonosteril (Vollelektrolytlösung) 500 ml INF + 40mVal KCl;;;;
+B;;Monoembolex (Patn. spritzt selbstständig);;;;
+B;;*Sprühdesinfektion, MepilexSchaumverband prätibial links;;;;
+B;;Furosemid-ratiopharm (Furosemid) 20 mg IV 20 min nach Ende SZT;;;;
+B;;100ml Wasser als Bolus in PEG;;;;
+B;;Fortum 2g;;;;
+B;;BELOCK-ZOK 47,5 mg;;;;
+B;;Floxal (Ofloxacin) 0,3% ATR LINKS;;;;
+B;;Trombozytenkonzentrat;;;;
+B;;Dekristol (Colecalciferol) 0,5µg;;;;
+B;;Salbutamol (Salbutamolsulfat) 120 µg/25;;;;
+B;;Lercanidipin/Enalapril 10mg/10mg;;;;
+B;;Systemtherapie Gemcitabine;;;;
+B;;Tonotec 5/5 mg;;;;
+B;;Ramipril/HCT 5/12,5mg;;;;
+B;;Aktivität 131 Iod 548 MBq;;;;
+B;;Braltus Spray;;;;
+B;;Lercanidipin 20;;;;
+B;;Prothromplex NF 600 (PPSB=Prothrombinkomplex v. Menschen) IV (ZE) P5W003AA;;;;
+B;;Elyte lt. CatoPan;;;;
+B;;Polihexanid 0,02% (Polihexanid) Creme;;;;
+B;;*Natriumthiosulfat 12.5 % 100 ml über 60 min;;;;
+B;;Risedronsäure 35 mg;;;;
+B;;Floxal EDO (Ofloxacin) 0,3% ATR 5 x linkes Auge;;;;
+B;;Unacid 3g i.v ;;;;
+B;;Escitalopram (Escitalopram) 20 mg;;;;
+B;;Candesartan comp. 16/12, 5 mg ;;;;
+B;;Vitamin B KOmplex Kapsel;;;;
+B;;Ethambutol (nüchtern);;;;
+B;;Vitagamma Vitamin D3 duo;;;;
+B;;Formeterol Spray;;;;
+B;;Meronem (Meropenem) 2000mg/40ml  KI 60 min;;;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;149989;ASS Protect 100 mg Tbl.;B01AC06;Acetylsalicylsäure;;
+C;9281851;Atorvastatin 20 mg Tbl.;C10AA05;Atorvastatin;;
+C;9205198;Novaminsulfon 1 g/2 ml Amp.;N02BB02;Metamizol-Natrium;;
+C;7717184;Paracetamol 1000 mg/100 ml InfLsg;N02BE01;Paracetamol;;
+C;536781;Insulin Actrapid Flexpen 300 E./3 ml;A10AB01;Insulin (human);;
+C;1836338;Ringerlösung PlastikFl. 1000 ml;B05BB12;Ringerlösung;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;1383985;LevETIRAcetam 1000 mg Tbl.;N03AX14;Levetiracetam;;
+C;1174179;Vimpat 200 mg Tbl.;N03AX18;Lacosamid;;
+C;833786;Valproat chrono Desitin® 300 mg Retardtabletten;N03AG01;Valproinsäure;;
+C;2012929;Frisium 10 mg Tbl.;N05BA09;Clobazam;;
+C;3565553;Tavor expidet 1 mg Plättchen;N05BA06;Lorazepam;;
+C;271868;hydroCHLOROthiazid 25 mg Tbl.;C03AA03;Hydrochlorothiazid;;
+C;1472481;Candesartan 8 mg Tbl.;C09CA06;Candesartan;;
+C;1472481;Candesartan 8 mg Tbl.;C09CA06;Candesartan;;
+C;271868;hydroCHLOROthiazid 25 mg Tbl.;C03AA03;Hydrochlorothiazid;;
+C;1332514;Zopiclon 7,5 mg Tbl.;N05CF01;Zopiclon;;
+C;14141968;Methylprednisolon 1000 mg/10 ml Amp.;H02AB04;Methylprednisolon;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;3634366;amiTRIPTYLin 25 mg Tbl.;N06AA09;Amitriptylin;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;1239542;Naproxen 250 mg HEXAL®, Tbl.;M01AE02;Naproxen;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;3634366;amiTRIPTYLin 25 mg Tbl.;N06AA09;Amitriptylin;;
+C;8592939;Riopan Gel Karamel Btl.;A02AD02;Magaldrat;;
+C;3531956;Calcitriol 0,25 MICROg Kps.;A11CC04;Calcitriol;;
+C;8698589;Calcium 500 mg BTbl.;A12AA04;Calciumcarbonat;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;3541050;B12 1000 MICROg Dragees;B03BA01;Cyanocobalamin;;
+C;10327601;Carmenthin® bei Verdauungsstörungen;A03AP30;Kombinationen;;
+C;811738;L-Thyroxin 100 MICROg Tbl.;H03AA01;Levothyroxin-Natrium;;
+C;14141968;Methylprednisolon 1000 mg/10 ml Amp.;H02AB04;Methylprednisolon;;
+C;6766134;Omeprazol 20 mg Kps.;A02BC01;Omeprazol;;
+C;14141968;Methylprednisolon 1000 mg/10 ml Amp.;H02AB04;Methylprednisolon;;
+C;13155678;Vigantoletten 1000 I.E. Tbl.;A11CC05;Colecalciferol;;
+C;4823566;ACC 600 mg BTbl.;R05CB01;Acetylcystein;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;149989;ASS Protect 100 mg Tbl.;B01AC06;Acetylsalicylsäure;;
+C;14141968;Methylprednisolon 1000 mg/10 ml Amp.;H02AB04;Methylprednisolon;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;9209380;Vitamin D3;{'system': 'http://fhir.de/CodeSystem/bfarm/atc', 'code': 'null'};;;
+C;3909372;Ximovan®, 7,5 mg Filmtabletten;N05CF01;Zopiclon;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;536781;Insulin Actrapid Flexpen 300 E./3 ml;A10AB01;Insulin (human);;
+C;1836338;Ringerlösung PlastikFl. 1000 ml;B05BB12;Ringerlösung;;
+C;788761;Torasemid 10 mg Tbl.;C03CA04;Torasemid;;
+C;814665;Januvia 50 mg Tbl.;A10BH01;Sitagliptin;;
+C;1472481;Candesartan 8 mg Tbl.;C09CA06;Candesartan;;
+C;3090104;Bisoprolol 5 mg Tbl.;C07AB07;Bisoprolol;;
+C;811690;L-Thyroxin 50 MICROg Tbl.;H03AA01;Levothyroxin-Natrium;;
+C;9281851;Atorvastatin 20 mg Tbl.;C10AA05;Atorvastatin;;
+C;8400041;ELIQUIS® 2,5 mg Filmtabletten;B01AF02;Apixaban;;
+C;3127830;Magnetrans forte Kps.;A12CC10;Magnesiumoxid;;
+C;1332514;Zopiclon 7,5 mg Tbl.;N05CF01;Zopiclon;;
+C;13155678;Vigantoletten 1000 I.E. Tbl.;A11CC05;Colecalciferol;;
+C;1836338;Ringerlösung PlastikFl. 1000 ml;B05BB12;Ringerlösung;;
+C;365492;Cetirizin 10 mg Tbl.;R06AE07;Cetirizin;;
+C;9205198;Novaminsulfon 1 g/2 ml Amp.;N02BB02;Metamizol-Natrium;;
+C;7717184;Paracetamol 1000 mg/100 ml InfLsg;N02BE01;Paracetamol;;
+C;14035829;Dociton 10 mg Tbl.;C07AA05;Propranolol;;
+C;1472481;Candesartan 8 mg Tbl.;C09CA06;Candesartan;;
+C;2846563;Simvastatin 20 mg Tbl.;C10AA01;Simvastatin;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;4087788;LamoTRIgin 100 mg Tbl.;N03AX09;Lamotrigin;;
+C;4273031;Konakion MM 10 mg/ml Amp.;B02BA01;Phytomenadion;;
+C;9615766;Urapidil 50 mg/10 ml Amp.;C02CA06;Urapidil;;
+C;5013355;Clexane 40 mg/0,4 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;3449611;Tavor p.i. 2 mg/ml Amp.;N05BA06;Lorazepam;;
+C;3761320;Morphinsulfat 10 mg/ml Amp.;N02AA01;Morphin;;
+C;107146;Scopoderm 0,33 mg/24h TTS;A04AD01;Scopolamin;;
+C;3761320;Morphinsulfat 10 mg/ml Amp.;N02AA01;Morphin;;
+C;3761320;Morphinsulfat 10 mg/ml Amp.;N02AA01;Morphin;;
+C;3761320;Morphinsulfat 10 mg/ml Amp.;N02AA01;Morphin;;
+C;2725227;Talvosilen forte Paracetamol 500 mg + Codein 30 mg Kps.;N02AJ06;Codein und Paracetamol;;
+C;5013266;Clexane 20 mg/0,2 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;250027;Mirtazapin 15 mg Tbl.;N06AX11;Mirtazapin;;
+C;1921400;Bisoprolol 2,5 mg Tbl.;C07AB07;Bisoprolol;;
+C;1983631;Ramipril 5 mg Tbl.;C09AA05;Ramipril;;
+C;271897;hydroCHLOROthiazid 12,5 mg Tbl.;C03AA03;Hydrochlorothiazid;;
+C;8592939;Riopan Gel Karamel Btl.;A02AD02;Magaldrat;;
+C;6553119;Movicol Pulver Btl.;A06AD65;Macrogol, Kombinationen;;
+C;1399062;Kochsalzlsg 0,9% 1000 ml KabiPac;B05BB01;Elektrolyte;;
+C;11510951;Urapidil 30 mg RetardKps.;C02CA06;Urapidil;;
+C;3421699;Promethazin-HCl 25 mg Tbl.;N05CM22;Promethazin;;
+C;6882202;Thyronajod 50 MICROg Henning Tbl.;H03AA51;Levothyroxin und Kaliumiodid;;
+C;14056702;Dekristol 20000 I.E. Kps.;A11CC05;Colecalciferol;;
+C;10067821;Folsäure 5 mg Tbl.;B03BB01;Folsäure;;
+C;7146994;Vitamin B12 1000 MICROg/ml Amp.;B03BA01;Cyanocobalamin;;
+C;5013266;Clexane 20 mg/0,2 ml Fertigspr.;B01AB05;Enoxaparin;;
+C;2725227;Talvosilen forte Paracetamol 500 mg + Codein 30 mg Kps.;N02AJ06;Codein und Paracetamol;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;3421699;Promethazin-HCl 25 mg Tbl.;N05CM22;Promethazin;;
+C;809109;Kochsalzlsg 0,9% 500 ml KabiPac;B05BB01;Elektrolyte;;
+C;809109;Kochsalzlsg 0,9% 500 ml KabiPac;B05BB01;Elektrolyte;;
+C;7146994;Vitamin B12 1000 MICROg/ml Amp.;B03BA01;Cyanocobalamin;;
+C;10067821;Folsäure 5 mg Tbl.;B03BB01;Folsäure;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;809109;Kochsalzlsg 0,9% 500 ml KabiPac;B05BB01;Elektrolyte;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;3928406;Loperamid-HCl akut 2 mg Tbl.;A07DA03;Loperamid;;
+C;250027;Mirtazapin 15 mg Tbl.;N06AX11;Mirtazapin;;
+C;3421699;Promethazin-HCl 25 mg Tbl.;N05CM22;Promethazin;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;1590311;Laxoberal Tropfen 30 ml;A06AB08;Natriumpicosulfat;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;2725227;Talvosilen forte Paracetamol 500 mg + Codein 30 mg Kps.;N02AJ06;Codein und Paracetamol;;
+C;412211;Jonosteril Btl. Freeflex 500ml;B05BB01;Elektrolyte;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;3421699;Promethazin-HCl 25 mg Tbl.;N05CM22;Promethazin;;
+C;250027;Mirtazapin 15 mg Tbl.;N06AX11;Mirtazapin;;
+C;3421699;Promethazin-HCl 25 mg Tbl.;N05CM22;Promethazin;;
+C;10067821;Folsäure 5 mg Tbl.;B03BB01;Folsäure;;
+C;7146994;Vitamin B12 1000 MICROg/ml Amp.;B03BA01;Cyanocobalamin;;
+C;14056702;Dekristol 20000 I.E. Kps.;A11CC05;Colecalciferol;;
+C;1921400;Bisoprolol 2,5 mg Tbl.;C07AB07;Bisoprolol;;
+C;1983631;Ramipril 5 mg Tbl.;C09AA05;Ramipril;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;6553119;Movicol Pulver Btl.;A06AD65;Macrogol, Kombinationen;;
+C;11510951;Urapidil 30 mg RetardKps.;C02CA06;Urapidil;;
+C;6882202;Thyronajod 50 MICROg Henning Tbl.;H03AA51;Levothyroxin und Kaliumiodid;;
+C;3541050;B12 1000 MICROg Dragees;B03BA01;Cyanocobalamin;;
+C;1752989;Trimipramin 100 mg Tbl.;N06AA06;Trimipramin;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;3127830;Magnetrans forte Kps.;A12CC10;Magnesiumoxid;;
+C;753739;Otriven 0,1% Nasenspray 10 ml;R01AA07;Xylometazolin;;
+C;1472481;Candesartan 8 mg Tbl.;C09CA06;Candesartan;;
+C;788761;Torasemid 10 mg Tbl.;C03CA04;Torasemid;;
+C;7363007;Pantoprazol 40 mg Tbl.;A02BC02;Pantoprazol;;
+C;13155678;Vigantoletten 1000 I.E. Tbl.;A11CC05;Colecalciferol;;
+C;1752989;Trimipramin 100 mg Tbl.;N06AA06;Trimipramin;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;13914397;Ortoton 750 mg Tbl.;M03BA03;Methocarbamol;;
+C;189730;metFORMIN-HCl 500 mg Tbl.;A10BA02;Metformin;;
+C;9915161;FAMENITA® 100 mg Weichkapseln;G03DA04;Progesteron;;
+C;816813;Gynokadin® Dosiergel;G03CA03;Estradiol;;
+C;13577480;Miflonide 400 Mikrogramm Emra Hartkaps. mit Pulver zur Inhalation;R03BA02;Budesonid;;
+C;2787079;Epi-Pevaryl® P.v. 1 % Lösung;D01AC03;Econazol;;
+C;10998086;Atrovent Dosieraerosol 10 ml;R03BB01;Ipratropiumbromid;;
+C;4128599;Spiropent kohlpharma Tbl.;R03CC13;Clenbuterol;;
+C;7722179;Bronchospray® novo 0,1 mg / Sprühstoß, Druckgasinhalation, Suspension;R03AC02;Salbutamol;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;1116555;Vomex A 150 mg Supp. f. Erwachsene;A04AB02;Dimenhydrinat;;
+C;13914397;Ortoton 750 mg Tbl.;M03BA03;Methocarbamol;;
+C;3565553;Tavor expidet 1 mg Plättchen;N05BA06;Lorazepam;;
+C;8796837;Valdoxan 25 mg Tbl.;N06AX22;Agomelatin;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;8456774;Unacid PD oral 375 mg Tbl.;J01CR04;Sultamicillin;;
+C;3127830;Magnetrans forte Kps.;A12CC10;Magnesiumoxid;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;6553119;Movicol Pulver Btl.;A06AD65;Macrogol, Kombinationen;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;161996;Buscopan 10 mg Dragees;A03BB01;Butylscopolamin;;
+C;4951755;Movicol Junior Pulver Btl.;A06AD65;Macrogol, Kombinationen;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;3530402;Novaminsulfon 500 mg/ml Tr.;N02BB02;Metamizol-Natrium;;
+C;993745;Sertralin 50 mg Tbl.;N06AB06;Sertralin;;
+C;7052690;Baldrian-ratiopharm® überzogene Tablette;N05CP01;Baldrianwurzel;;
+C;12550409;Fenistil Gel 20 g;D04AA13;Dimetinden;;
+C;13815809;QUEtiapin 25 mg Tbl.;N05AH04;Quetiapin;;
+C;993745;Sertralin 50 mg Tbl.;N06AB06;Sertralin;;
+C;993745;Sertralin 50 mg Tbl.;N06AB06;Sertralin;;
+C;993745;Sertralin 50 mg Tbl.;N06AB06;Sertralin;;
+C;4024411;Gabapentin 300 mg Kps.;N03AX12;Gabapentin;;
+C;3127830;Magnetrans forte Kps.;A12CC10;Magnesiumoxid;;
+C;993745;Sertralin 50 mg Tbl.;N06AB06;Sertralin;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;2725227;Talvosilen forte Paracetamol 500 mg + Codein 30 mg Kps.;N02AJ06;Codein und Paracetamol;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;8456774;Unacid PD oral 375 mg Tbl.;J01CR04;Sultamicillin;;
+C;8456774;Unacid PD oral 375 mg Tbl.;J01CR04;Sultamicillin;;
+C;12700079;Dolo Dobendan Lutschpastillen;R02AA20;Verschiedene;;
+C;1405638;Gent-Ophtal AS 3 g;S01AA11;Gentamicin;;
+C;4844315;Vismed® multi Augentropfen (ohne Konservierungsmittel);S01XA20;Künstliche Tränen und andere indifferente Mittel;;
+C;14001919;Cymbalta 30 mg Kps.;N06AX21;Duloxetin;;
+C;12700079;Dolo Dobendan Lutschpastillen;R02AA20;Verschiedene;;
+C;6834278;Kochsalz 1000 mg Tbl.;V06XX02;Nahrungsergänzungsmittel;;
+C;9915161;FAMENITA® 100 mg Weichkapseln;G03DA04;Progesteron;;
+C;5891133;Basiscreme DAC 100 g Tube;{'system': 'http://fhir.de/CodeSystem/bfarm/atc', 'code': 'null'};;;
+C;3024840;Batrafen® S 10 mg/g Shampoo;D01AE14;Ciclopirox;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;7810446;Sab Simplex Tropfen 30 ml;A03AX13;Silikone;;
+C;1038938;Tilidin-HCl 50 mg + Naloxon-HCl 4 mg RetardTbl.;N02AX51;Tilidin und Naloxon;;
+C;4620395;Limptar N 200 mg Tbl.;M09AA02;Chinin;;
+C;3127830;Magnetrans forte Kps.;A12CC10;Magnesiumoxid;;
+C;9297728;Candesartan 16 mg Tbl.;C09CA06;Candesartan;;
+C;15305834;Lercanidipin 20 mg Tbl.;C08CA13;Lercanidipin;;
+C;1035934;Moxonidin 0,2 mg Tbl.;C02AC05;Moxonidin;;
+C;10714083;Lixiana 30 mg Tbl.;B01AF03;Edoxaban;;
+D;;;;;;(-)-Ephedrin
+D;;;;;;Natrium laureth-8 sulfat
+D;;;;;;2-Hydroxy-N-(2-hydroxyethyl)propionamid
+D;;;;;;Alchemilla vulgaris-spag. Zimpel
+D;;;;;;Cineol
+D;;;;;;Efeukraut-Extrakt
+D;;;;;;Mucosa vesica urinaria lysat. bovis fetal. extractum lyophilisatum aquosum
+D;;;;;;Orthosiphon aristatus
+D;;;;;;Saccharose distearat
+D;;;;;;Viscum album Mali e planta tota K
+D;;;;;;Cinnarizin
+D;;;;;;Schafgarbenkraut-Pulver
+D;;;;;;Lindenblüten
+D;;;;;;Ursodeoxycholsäure
+D;;;;;;Palladium metallicum
+D;;;;;;Natrium citrat
+D;;;;;;Staphylococcus aureus e volumine cellulae
+D;;;;;;"Sägepalmenfrucht-Dickextrakt (7,5-12,5:1); Auszugsmittel: Ethanol 90% (m/m)"
+D;;;;;;Magnesium phosphoricum
+D;;;;;;Bergwasser
+D;;;;;;Cetraria islandica-spag. v. Bernus
+D;;;;;;Galeopsis tetrahit
+D;;;;;;Mycobacterium phlei F.U. 36
+D;;;;;;Musculi lysat. bovis juvenil et fetalis extractum lyophilisatum aquosum
+D;;;;;;Blut (Rind), defibriniert
+D;;;;;;Hydrocortison buteprat
+D;;;;;;Equisetum cum Sulfure tostum
+D;;;;;;Eierschale
+D;;;;;;Oxalis e planta tota ferm 34b
+D;;;;;;Phytolacca decandra-spag. Krauß
+D;;;;;;Urokinase
+D;;;;;;Myristica fragrans-spag. v. Bernus
+D;;;;;;Mycobacterium bovis antigenum
+D;;;;;;Choriongonadotropin
+D;;;;;;Kollagen-Hydrolysat (Rind)
+D;;;;;;Citrat-Trianion
+D;;;;;;Cellulose, oxidiert, regeneriert
+D;;;;;;Phenprocoumon
+D;;;;;;Fragaria/Urtica
+D;;;;;;Articulatio lysat. bovis fetal. extractum lyophilisatum aquosum
+D;;;;;;Ventriculus suis
+D;;;;;;Alendronsäure natrium-1-Wasser
+D;;;;;;3-Methylbut-2-ensäure-3,7-dimethyloct-6-enylester
+D;;;;;;Curcuma xanthorrhiza
+D;;;;;;Calcium DL-hydrogenaspartat
+D;;;;;;Blutgruppen-Testzone
+D;;;;;;Galeopsis speciosa
+D;;;;;;2,5-Dioxahexan-1,6-diol
+D;;;;;;Iris florentina-Wurzel-Extrakt
+D;;;;;;Efeu-Blätter-, -Stängel-Extrakt
+D;;;;;;Holunderbeeren-Extrakt
+D;;;;;;Clavulansäure
+D;;;;;;Almotriptan
+D;;;;;;"Rota-Virus, lebend (VERO); Serotyp G3"
+D;;;;;;Cuprum aceticum/Zincum valerianicum
+D;;;;;;Hamamelisblätter-Fluidextrakt
+D;;;;;;Magnesium iodatum
+D;;;;;;Sulpirid
+D;;;;;;Malachit aquosum
+D;;;;;;Acidum silicicum-spag. v. Bernus
+D;;;;;;"Fichtensprossen-Extrakt (1:17-22); Auszugsmittel: Wasser"
+D;;;;;;Gelatine, resorbierbar
+D;;;;;;Phosphatidylethanolamine
+D;;;;;;Ketotifen fumarat
+D;;;;;;Natrium causticum
+D;;;;;;Bifidobacterium lactis BS01
+D;;;;;;Eisen(III)-Ion
+D;;;;;;Indischer Weihrauchbaumharz-Extrakt
+D;;;;;;12-Hydroxystearinsäure
+D;;;;;;Viscum album ssp. album aceris campestris ex herba et fructibus recentibus
+D;;;;;;Ovarialcyste-Nosode
+D;;;;;;Citrusflavonoide
+D;;;;;;Hydrochlorothiazid
+D;;;;;;Ruta graveolens-spag. Krauß
+D;;;;;;Dilinoleylalkohol/Dimethylcarbonat-Copolymer
+D;;;;;;Ferrum metallicum-spag. v. Bernus
+D;;;;;;Iodum
+D;;;;;;Hydrocodon hydrochlorid-2-Wasser
+D;;;;;;Maxilla feti bovis-Glycerolauszug
+D;;;;;;PEG-12 dimeticon
+D;;;;;;Thymiankraut-Extrakt
+D;;;;;;Equisetum/Stannum
+D;;;;;;Polyglyceryl-10 pentaoleat
+D;;;;;;4-Amino-2-hydroxybenzoesäure, Natriumsalz
+D;;;;;;Achillea millefolium Rh
+D;;;;;;Carbonat-Ionum
+D;;;;;;Brennnesselwurzel
+D;;;;;;Diplococcus pneumoniae-Ribosomen
+D;;;;;;Echinacea purpurea ex planta tota
+D;;;;;;Liquor cerebrospinalis bovis-Glycerolauszug
+D;;;;;;Wiesenknäuelgraspollen, allergenfrei
+D;;;;;;Gelatine, modifiziert zur parenteralen Anwendung
+D;;;;;;PPG-15 stearyl ether
+D;;;;;;Meningokokken-C-Polysaccharid (de-O-acetyliert)
+D;;;;;;Oenanthe crocata
+D;;;;;;Betamethason valerat
+D;;;;;;Rotkleeblüten-Pulver
+D;;;;;;Ioversol
+D;;;;;;Erdrauchkraut-Trockenextrakt
+D;;;;;;Lactobacillus gasseri
+D;;;;;;Kaninchencitratplasma, lyophilisiert
+D;;;;;;Osmium metallicum
+D;;;;;;Angelica archangelica, ethanol. Decoctum
+D;;;;;;Ketorolac
+D;;;;;;Castanea sativa
+D;;;;;;Pentaerythritol dicocoat
+D;;;;;;Ginkgoblätter-Extrakt
+D;;;;;;Oxitropium bromid
+D;;;;;;Bittersüßstängel-Extrakt
+D;;;;;;Pfirsichkernöl
+D;;;;;;Mitoxantron hydrochlorid
+D;;;;;;Olivenpolyphenol-Extrakt
+D;;;;;;Aloe socotrina
+D;;;;;;Rosa e floribus W 10%
+D;;;;;;Lecithin
+D;;;;;;Grindelia robusta-spag. Peka
+D;;;;;;Fentanyl dihydrogencitrat
+D;;;;;;(RS)-Octan-/Decansäure-2-hydroxybutylester
+D;;;;;;Papaverin hydrochlorid
+D;;;;;;Lycopodium clavatum
+D;;;;;;Palmitinsäure
+D;;;;;;Fragaria vesca, fructuarium Rh
+D;;;;;;Trilinolein
+D;;;;;;Apfel-Saft
+D;;;;;;N,N-Didecyl-N-methyl-N-poly(oxyethylen)ammoniumpropionat
+D;;;;;;Pneumokokken-Polysaccharid, Serotyp 6A
+D;;;;;;Glycerolmonostearat 40-50%
+D;;;;;;Buchweizen-Trockenextrakt
+D;;;;;;RNA-Na (Mesenchyma)
+D;;;;;;Fel tauri
+D;;;;;;Eriodictyon californicum
+D;;;;;;Besenbeifußkraut-Trockenextrakt
+D;;;;;;Tosylchloramid natrium-3-Wasser
+D;;;;;;Levomenthol-Destillat
+D;;;;;;Tinnevelly-Sennesfrüchte
+D;;;;;;Dolasetron
+D;;;;;;Butylen/Ethylen/Styrol-Copolymer, hydriert
+D;;;;;;Cefaclorum
+D;;;;;;"Poliomyelitisviren, inaktiviert (VERO-Zellen); Typ III Stamm Saukett"
+D;;;;;;Gräserpollen-Extraktgemisch (Roggen : Timothy Gras : Mais) (30:1,5:1)
+D;;;;;;Plumbum metallicum
+D;;;;;;Ceteareth-25
+D;;;;;;Acrylat/Palmeth-25 acrylat-Copolymer
+D;;;;;;X-Radii
+D;;;;;;Magnesiumphosphat
+D;;;;;;Zimtrinden-Destillat
+D;;;;;;Traubenkernöl
+D;;;;;;Talpa europaea
+D;;;;;;Ceteareth-60 myristyl glycol
+D;;;;;;Veilchenwurzel-Fluidextrakt
+D;;;;;;Clostridium botulinum Toxin Typ B
+D;;;;;;Aloe vera-Blätter-Saft
+D;;;;;;Convallaria majalis ex herba-spag. Strathmeyer
+D;;;;;;Pyrithion natrium
+D;;;;;;Zalcitabin
+D;;;;;;Aminosäuren, semiessentiell
+D;;;;;;Calciumglycerophosphat
+D;;;;;;Clomifen citrat
+D;;;;;;Triacylglycerollipase
+D;;;;;;Polybutylmethacrylat
+D;;;;;;Natrium-(RS)-2,3-bis(sulfanyl)propan-1-sulfonat
+D;;;;;;Fosfomycin
+D;;;;;;Anus bovis-Glycerolauszug
+D;;;;;;Erythromycin stinoprat
+D;;;;;;Gnaphalium leontopodium
+D;;;;;;Warfarin
+D;;;;;;Bärentraubenblätter-Extrakt
+D;;;;;;Cerebellum comp.
+D;;;;;;Mercurialis perennis ferm 34c
+D;;;;;;Clavulansäure kalium
+D;;;;;;Blutgerinnungsfaktor IX (human)
+D;;;;;;Schwefel
+D;;;;;;Tunica mucosa nasi bovis-Glycerolauszug
+D;;;;;;Cefotaxim
+D;;;;;;Artemisia abrotanum-spag. Krauß
+D;;;;;;Magnesium sulfuricum aquosum
+D;;;;;;Dobutamin
+D;;;;;;Verbena officinalis ex herba siccata-spag. v. Bernus
+D;;;;;;Cola
+D;;;;;;Nylon-12/6/66-Copolymer
+D;;;;;;Eugenol
+D;;;;;;Oryza
+D;;;;;;Capsella bursa-pastoris-spag. Zimpel
+D;;;;;;Pidolsäure, Zinksalz
+D;;;;;;Hydrocodon hydrogentartrat-2,5-Wasser
+D;;;;;;Pyridoxinum
+D;;;;;;Picrorhiza kurroa
+D;;;;;;Insulin lispro-Isophan
+D;;;;;;Lien lysat. bovis fetal extractum lyophilisatum aquosum
+D;;;;;;Mohnöl
+D;;;;;;Aminocapronsäure
+D;;;;;;Fluphenazin decanoat
+D;;;;;;Protein
+D;;;;;;Saure Limette-Öl
+D;;;;;;Calcium folinat
+D;;;;;;Sojakeim-Extrakt
+D;;;;;;Granatum punica-spag. Zimpel
+D;;;;;;Amikacin
+D;;;;;;Pons bovis-Glycerolauszug
+D;;;;;;Disci intervertebrales feti bovis-Glycerolauszug
+D;;;;;;Glycerol citrat/lactat/linolat/oleat
